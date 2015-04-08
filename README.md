@@ -12,3 +12,6 @@
 <a href="https://github.com/allwefantasy/my-life/blob/master/foundation-1.md">大数据技术栈-Web框架&消息队列</a>
 
 
+<a href="https://github.com/allwefantasy/my-life/blob/master/foundation-2.md">大数据技术栈- BI探秘</a>
+
+
