@@ -15,3 +15,6 @@
 <a href="https://github.com/allwefantasy/my-life/blob/master/foundation-2.md">大数据技术栈- BI探秘</a>
 
 
+<a href="https://github.com/allwefantasy/my-life/blob/master/config-deploy.md">大数据技术栈-配置&发布系统</a>
+
+
