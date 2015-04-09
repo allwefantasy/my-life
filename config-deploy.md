@@ -65,7 +65,13 @@ SDK 主要是为了和Master 以及 Zookeeper通讯。
 
 ### CCADS 配置功能大体如下：
 
-![](http://ww2.sinaimg.cn/large/686443cegw1eqzdncm76gj216g0w6n0k.jpg)
+![](http://ww2.sinaimg.cn/large/686443cegw1eqzdvz55agj20xg0pt41w.jpg)
+
+
+1. Mater和Web界面主要是修改zookeeper里的配置内容
+2. Agent通过和Zookeeper建立长连，并且会监听zookeeper配置文件的变更，从而更新服务器上对应的配置文件
+3. Application(应用)如果使用Agent的SDK包，则也能够监听到zookeeper配置文件的变化
+
 
 ### CCADS中初始化项目流程
 
