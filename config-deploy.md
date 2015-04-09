@@ -63,6 +63,10 @@ CCADS需要三部分：
 
 SDK 主要是为了和Master 以及 Zookeeper通讯。
 
+### CCADS 配置功能大体如下：
+
+![](http://ww2.sinaimg.cn/large/686443cegw1eqzdncm76gj216g0w6n0k.jpg)
+
 ### CCADS中初始化项目流程
 
 1. 在部署了Agent的服务器上的一个指定目录(该目录可在启动Agent时指定)里，假设是 /data/auto-configuration，添加一个软链,假设我们添加的是推荐系统
