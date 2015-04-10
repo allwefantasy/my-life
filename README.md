@@ -17,4 +17,6 @@
 
 <a href="https://github.com/allwefantasy/my-life/blob/master/config-deploy.md">大数据技术栈-配置&发布系统</a>
 
+<a href="https://github.com/allwefantasy/my-life/blob/master/blog-revolution.md">博客与Git的完美结合-是时候引发写作的革命了</a>
+
 
