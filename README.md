@@ -19,4 +19,7 @@
 
 <a href="https://github.com/allwefantasy/my-life/blob/master/blog-revolution.md">博客与Git的完美结合-是时候引发写作的革命了</a>
 
+<a href="https://github.com/allwefantasy/my-life/blob/master/scale.md">读写分离和横向扩容那些事</a>
+
+
 
