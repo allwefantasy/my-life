@@ -21,5 +21,10 @@
 
 <a href="https://github.com/allwefantasy/my-life/blob/master/scale.md">读写分离和横向扩容那些事</a>
 
+<a href="https://github.com/allwefantasy/my-life/blob/master/about-work.md">工作迷思</a>
+
+
+<a href="https://github.com/allwefantasy/my-life/blob/master/shard-replications.md">索引服务心得(一)</a>
+
 
 
