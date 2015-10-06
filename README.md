@@ -58,7 +58,9 @@
 
 27. <a href="http://weibo.com/p/1001603735085554784433?mod=zwenzhang">今天看了一篇古文翻译的歌词，有感而发</a>
 
-28. <a href="http://weibo.com/p/1001603735085554784433?mod=zwenzhang">今天看了一篇古文翻译的歌词，有感而发</a>
+28. <a href="http://weibo.com/p/1001603731835669637861?mod=zwenzhang">喝茶时品味文明之光</a>
+29. <a href="http://weibo.com/p/1001603700070682856694?mod=zwenzhang">推荐系统上线二三事</a>
+30. <a href="http://weibo.com/p/1001603696138980043210?mod=zwenzhang">大脑思维乱入</a>
 
 
 
