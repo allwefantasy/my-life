@@ -36,6 +36,33 @@
 
 15. <a href="http://mp.weixin.qq.com/s?__biz=MzA3MjEyNTE4MQ==&mid=214350913&idx=1&sn=eeae4fc974c55d1b745e122212adecb0&scene=1&srcid=0918wnvJ3wXXYBbCAXBvUPKw&key=2877d24f51fa53842a6e1c6f8dd4fc26345647c7ef0af4b08d9ae5c589b19724408a307504fa9fb9124fcbb1b13c88a4&ascene=0&uin=MjI0OTk0NzU%3D&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.10.3+build(14D136)&version=11020113&pass_ticket=Ts0kOmWlcSYXGLBVzDhA0zWJYHbemFUTr%2FBW5mfilM0%3D">基于Spark的机器学习经验</a>
 
+16. <a href="http://weibo.com/p/1001603882193943456908?mod=zwenzhang">烟雨北京</a>
+
+17. <a href="http://weibo.com/p/1001603864973729233241?mod=zwenzhang">大数据/机器学习/人工智能之间是什么关系</a>
+
+18. <a href="http://weibo.com/p/1001603861544139140559?mod=zwenzhang">面包店</a>
+
+19. <a href="http://weibo.com/p/1001603849925292068200?mod=zwenzhang">她像一颗星星</a>
+
+20. <a href="http://weibo.com/p/1001603831673392341877?mod=zwenzhang">思想 水果 和酒</a>
+
+21. <a href="http://weibo.com/p/1001603830215414529762?mod=zwenzhang">叶之殇</a>
+
+22. <a href="http://weibo.com/p/1001603828225779358598?mod=zwenzhang">人人都应该使用大数据平台</a>
+
+23. <a href="http://weibo.com/p/1001603802944054156848?mod=zwenzhang">热度排序一二三</a>
+24. <a href="http://weibo.com/p/1001603829834450079458?mod=zwenzhang">Get  over yourself</a>
+25. <a href="http://weibo.com/p/1001603801409366704781?mod=zwenzhang">职位/简历的推荐和搜索功能</a>
+
+26. <a href="http://weibo.com/p/1001603793590814901389?mod=zwenzhang">匹诺曹</a>
+
+27. <a href="http://weibo.com/p/1001603735085554784433?mod=zwenzhang">今天看了一篇古文翻译的歌词，有感而发</a>
+
+28. <a href="http://weibo.com/p/1001603735085554784433?mod=zwenzhang">今天看了一篇古文翻译的歌词，有感而发</a>
+
+
+
+
 
 
 
