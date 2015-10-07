@@ -27,6 +27,9 @@
 
 * <a href="https://github.com/allwefantasy/my-life/blob/master/shard-replications.md">索引服务心得(一)</a>
 
+*  <a href="http://weibo.com/p/1001603801409366704781?mod=zwenzhang">职位/简历的推荐和搜索功能</a>
+* <a href="http://weibo.com/p/1001603700070682856694?mod=zwenzhang">推荐系统上线二三事</a>
+
 ## 产品思考
 
 * <a href="https://github.com/allwefantasy/my-life/blob/master/blog-revolution.md">博客与Git的完美结合-是时候引发写作的革命了</a>
@@ -35,7 +38,7 @@
 
 * <a href="https://github.com/allwefantasy/my-life/blob/master/what-big-data-brought.md">大数据给公司带来了什么</a>
 
-* <a href="https://github.com/allwefantasy/my-life/blob/master/state-journey.md">国内旅游困境之破局</a>
+* <a href="http://weibo.com/p/1001603828225779358598?mod=zwenzhang">人人都应该使用大数据平台</a>
 
 * <a href="https://github.com/allwefantasy/my-life/blob/master/docker-thinking.md">其实连Docker公司都把Docker用错啦</a>
 
@@ -55,6 +58,8 @@
 
 ## 非技术文章
 
+* <a href="https://github.com/allwefantasy/my-life/blob/master/state-journey.md">国内旅游困境之破局</a>
+
 * <a href="http://weibo.com/p/1001603882193943456908?mod=zwenzhang">烟雨北京</a>
 
 * <a href="http://weibo.com/p/1001603861544139140559?mod=zwenzhang">面包店</a>
@@ -65,18 +70,15 @@
 
 * <a href="http://weibo.com/p/1001603830215414529762?mod=zwenzhang">叶之殇</a>
 
-* <a href="http://weibo.com/p/1001603828225779358598?mod=zwenzhang">人人都应该使用大数据平台</a>
-
-
 *  <a href="http://weibo.com/p/1001603829834450079458?mod=zwenzhang">Get  over yourself</a>
-*  <a href="http://weibo.com/p/1001603801409366704781?mod=zwenzhang">职位/简历的推荐和搜索功能</a>
+
 
 *  <a href="http://weibo.com/p/1001603793590814901389?mod=zwenzhang">匹诺曹</a>
 
 * <a href="http://weibo.com/p/1001603735085554784433?mod=zwenzhang">今天看了一篇古文翻译的歌词，有感而发</a>
 
 * <a href="http://weibo.com/p/1001603731835669637861?mod=zwenzhang">喝茶时品味文明之光</a>
-* <a href="http://weibo.com/p/1001603700070682856694?mod=zwenzhang">推荐系统上线二三事</a>
+
 * <a href="http://weibo.com/p/1001603696138980043210?mod=zwenzhang">大脑思维乱入</a>
 
 
