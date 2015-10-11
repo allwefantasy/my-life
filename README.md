@@ -38,6 +38,9 @@
 
 * <a href="https://github.com/allwefantasy/my-life/blob/master/what-big-data-brought.md">大数据给公司带来了什么</a>
 
+* [为什么普通工程师也需要懂得机器学习](https://github.com/allwefantasy/my-life/blob/master/you-should-learn-machine-learning.md)
+
+
 * <a href="http://weibo.com/p/1001603828225779358598?mod=zwenzhang">人人都应该使用大数据平台</a>
 
 * <a href="https://github.com/allwefantasy/my-life/blob/master/docker-thinking.md">其实连Docker公司都把Docker用错啦</a>
