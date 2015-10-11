@@ -40,6 +40,7 @@
 
 * [为什么普通工程师也需要懂得机器学习](https://github.com/allwefantasy/my-life/blob/master/you-should-learn-machine-learning.md)
 
+* [分布式操作系统，运维的终极之路](https://github.com/allwefantasy/my-life/blob/master/yarn-operation-system.md)
 
 * <a href="http://weibo.com/p/1001603828225779358598?mod=zwenzhang">人人都应该使用大数据平台</a>
 
