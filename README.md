@@ -62,6 +62,9 @@
 
 ## 非技术文章
 
+* [ 卖火柴的小男孩-饭桌上的文字](https://github.com/allwefantasy/my-life/blob/master/my-words.md)
+
+
 * <a href="https://github.com/allwefantasy/my-life/blob/master/state-journey.md">国内旅游困境之破局</a>
 
 * <a href="http://weibo.com/p/1001603882193943456908?mod=zwenzhang">烟雨北京</a>
