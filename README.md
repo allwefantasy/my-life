@@ -30,6 +30,9 @@
 *  <a href="http://weibo.com/p/1001603801409366704781?mod=zwenzhang">职位/简历的推荐和搜索功能</a>
 * <a href="http://weibo.com/p/1001603700070682856694?mod=zwenzhang">推荐系统上线二三事</a>
 
+* [用大数据思维做运维监控](https://github.com/allwefantasy/my-life/blob/master/yarn-operation-system.md)
+
+
 ## 产品思考
 
 * <a href="https://github.com/allwefantasy/my-life/blob/master/blog-revolution.md">博客与Git的完美结合-是时候引发写作的革命了</a>
@@ -40,7 +43,7 @@
 
 * [为什么普通工程师也需要懂得机器学习](https://github.com/allwefantasy/my-life/blob/master/you-should-learn-machine-learning.md)
 
-* [分布式操作系统，运维的终极之路](https://github.com/allwefantasy/my-life/blob/master/yarn-operation-system.md)
+* [分布式操作系统](https://github.com/allwefantasy/my-life/blob/master/yarn-operation-system.md)
 
 * <a href="http://weibo.com/p/1001603828225779358598?mod=zwenzhang">人人都应该使用大数据平台</a>
 
