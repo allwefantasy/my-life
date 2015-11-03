@@ -30,7 +30,7 @@
 *  <a href="http://weibo.com/p/1001603801409366704781?mod=zwenzhang">职位/简历的推荐和搜索功能</a>
 * <a href="http://weibo.com/p/1001603700070682856694?mod=zwenzhang">推荐系统上线二三事</a>
 
-* [用大数据思维做运维监控](https://github.com/allwefantasy/my-life/blob/master/yarn-operation-system.md)
+* [用大数据思维做运维监控](https://github.com/allwefantasy/my-life/blob/master/sa-bigdata.md)
 
 
 ## 产品思考
