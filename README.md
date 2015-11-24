@@ -33,6 +33,11 @@
 * [用大数据思维做运维监控](https://github.com/allwefantasy/my-life/blob/master/sa-bigdata.md)
 
 
+## Yarn相关
+
+* [为什么用Yarn来做Docker容器调度引擎(1)](http://weibo.com/p/1001603903651583280145)
+* [为什么用Yarn来做Docker容器调度引擎(2)](http://weibo.com/p/1001603903762031891525)
+
 ## 产品思考
 
 * <a href="https://github.com/allwefantasy/my-life/blob/master/blog-revolution.md">博客与Git的完美结合-是时候引发写作的革命了</a>
@@ -64,6 +69,8 @@
 
 
 ## 非技术文章
+
+[技术合伙人之殇](http://www.jianshu.com/p/e412d6cb25b8)
 
 * [ 卖火柴的小男孩-饭桌上的文字](https://github.com/allwefantasy/my-life/blob/master/my-words.md)
 
