@@ -58,7 +58,7 @@
 
 ## 微信分享
 
-* <a href="http://mp.weixin.qq.com/s?__biz=MzA3MjEyNTE4MQ==&mid=213850660&idx=3&sn=b745db47d6b029254ab2db30f5eb4fdc&scene=1&srcid=832w6SmAVJVNCTpSM5jv&key=2877d24f51fa538492b0907d454e1391700af9909bec8b59e7e73272d14be5b989c727d75c35a5ba0f7eb8e64a7c42e3&ascene=0&uin=MjI0OTk0NzU%3D&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.10.3+build(14D136)&version=11020113&pass_ticket=Ts0kOmWlcSYXGLBVzDhA0zWJYHbemFUTr%2FBW5mfilM0%3D">基于HBase做Storm 实时计算指标存储</a>
+* <a href="http://www.jianshu.com/p/1f9153cfde67">基于HBase做Storm 实时计算指标存储(修改版)</a>
 
 * <a href="http://mp.weixin.qq.com/s?__biz=MzA3MjEyNTE4MQ==&mid=214350913&idx=1&sn=eeae4fc974c55d1b745e122212adecb0&scene=1&srcid=0918wnvJ3wXXYBbCAXBvUPKw&key=2877d24f51fa53842a6e1c6f8dd4fc26345647c7ef0af4b08d9ae5c589b19724408a307504fa9fb9124fcbb1b13c88a4&ascene=0&uin=MjI0OTk0NzU%3D&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.10.3+build(14D136)&version=11020113&pass_ticket=Ts0kOmWlcSYXGLBVzDhA0zWJYHbemFUTr%2FBW5mfilM0%3D">基于Spark的机器学习经验</a>
 
@@ -70,7 +70,7 @@
 
 ## 非技术文章
 
-[技术合伙人之殇](http://www.jianshu.com/p/e412d6cb25b8)
+* [技术合伙人之殇](http://www.jianshu.com/p/e412d6cb25b8)
 
 * [ 卖火柴的小男孩-饭桌上的文字](https://github.com/allwefantasy/my-life/blob/master/my-words.md)
 
