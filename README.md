@@ -1,5 +1,10 @@
 # my-life
 
+
+最近三个月写了大量的Spark文章。感兴趣的可以移步到：[祝威廉的简书](http://www.jianshu.com/users/59d5607f1400/latest_articles)
+
+非技术类的文章，现在主要会放在：[祝威廉三世的简书](http://www.jianshu.com/users/be4ed19aecb8/latest_articles)上。
+
 ## 个人经历
 
 * <a href="https://github.com/allwefantasy/my-life/blob/master/career.md">这些年，我工作上走过的路</a>
