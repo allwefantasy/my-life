@@ -78,7 +78,7 @@ val logReadResults = readFromLocalLog(fetchOnlyFromLeader, fetchOnlyCommitted, f
 log.read(offset, fetchSize, maxOffsetOpt)
 ```
 
-Log 对象是啥呢？其实就是对应的一个Topic的Partition. 一个Partition是由很多端(Segment)组成的，这和Lucene非常相似。一个Segment就是一个文件。实际的数据自然是从这里读到的。代码如下：
+Log 对象是啥呢？其实就是对应的一个Topic的Partition. 一个Partition是由很多段(Segment)组成的，这和Lucene非常相似。一个Segment就是一个文件。实际的数据自然是从这里读到的。代码如下：
 
 ```
 val fetchInfo = entry.getValue.read(startOffset, maxOffset, maxLength, maxPosition)
@@ -117,7 +117,7 @@ val fetchPartitionData = logReadResults.mapValues(result =>  FetchResponsePartit
 responseCallback(fetchPartitionData)
 ```
 
- logReadResults 的信息被包装成`FetchResponsePartitionData`, FetchResponsePartitionData 包喊了我们的FileMessageSet 对象。还记得么，这个对象包含了我们要跟踪的`tranferTo方法`。然后FetchResponsePartitionData 会给responseCallback作为参数进行回调。
+ logReadResults 的信息被包装成`FetchResponsePartitionData`, FetchResponsePartitionData 包含了我们的FileMessageSet 对象。还记得么，这个对象包含了我们要跟踪的`tranferTo方法`。然后FetchResponsePartitionData 会给responseCallback作为参数进行回调。
 
 responseCallback 的函数签名如下(我去掉了一些我们不关心的信息)：
 
@@ -188,7 +188,8 @@ public void send(Send send) {
 
 //KafkaChannel.scala
    public void setSend(Send send) {
-         this.send = send;          this.transportLayer.addInterestOps(SelectionKey.OP_WRITE);     
+         this.send = send;          
+         this.transportLayer.addInterestOps(SelectionKey.OP_WRITE);     
     }
 ```
 
